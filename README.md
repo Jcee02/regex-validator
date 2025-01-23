@@ -38,7 +38,7 @@ Regex Validator is a modern, user-friendly graphical application built in Rust t
 ### Build from Source
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/regex-validator.git
+git clone https://github.com/yourusername/regex-validator.git](https://github.com/Jcee02/regex-validator.git
 cd regex-validator
 
 # Build the project
