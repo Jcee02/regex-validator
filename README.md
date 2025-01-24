@@ -104,12 +104,6 @@ const ERROR_COLOR: Color32 = Color32::from_rgb(220, 20, 60);
 ```
 src/
 ├── main.rs          # Application entry point
-├── app.rs           # Main application logic
-├── ui/              # UI components
-│   ├── pattern.rs   # Pattern input panel
-│   ├── testing.rs   # Test string panel
-│   └── presets.rs   # Preset patterns panel
-└── utils/           # Utility functions
 ```
 
 ### Key Components
